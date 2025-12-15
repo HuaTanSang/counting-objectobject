@@ -4,7 +4,7 @@ imgaug==0.4.0
 matplotlib==3.4.3
 numpy==1.21.2
 opencv_python==4.6.0.66
-Pillow==8.3.2
+Pillow==10.4.0
 pytorch_lightning==1.8.0
 Requests==2.31.0
 scikit_learn==1.0.1
